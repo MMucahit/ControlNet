@@ -1,0 +1,57 @@
+{
+    "vae/ae.safetensors": {
+        "url": "https://huggingface.co/camenduru/FLUX.1-dev/resolve/main/ae.safetensors",
+        "path": "path_vae",
+        "filename": "ae.safetensors"
+    },
+    "vae/flux-vae.safetensors": {
+        "url": "https://huggingface.co/diffusers/FLUX.1-vae/resolve/main/diffusion_pytorch_model.safetensors",
+        "path": "path_vae",
+        "filename": "flux-vae.safetensors"
+    },
+    "vae/sdxl_vae.safetensors": {
+        "url": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/vae/diffusion_pytorch_model.safetensors",
+        "path": "path_vae",
+        "filename": "sdxl_vae.safetensors"
+    },
+    "vae/sd3_vae.safetensors": {
+        "url": "https://huggingface.co/calcuis/sd3.5-large-gguf/resolve/main/diffusion_pytorch_model.safetensors",
+        "path": "path_vae",
+        "filename": "sd3_vae.safetensors"
+    },
+    "vae/lumina2_vae_fp8.safetensors": {
+        "url": "https://huggingface.co/calcuis/lumina-gguf/resolve/main/lumina2_vae_fp8.safetensors",
+        "path": "path_vae",
+        "filename": "lumina2_vae_fp8.safetensors"
+    },
+    "vae/lumina2_vae_fp16.safetensors": {
+        "url": "https://huggingface.co/calcuis/lumina-gguf/resolve/main/lumina2_vae_fp16.safetensors",
+        "path": "path_vae",
+        "filename": "lumina2_vae_fp16.safetensors"
+    },
+    "vae/lumina2_vae_fp32.safetensors": {
+        "url": "https://huggingface.co/calcuis/lumina-gguf/resolve/main/lumina2_vae_fp32.safetensors",
+        "path": "path_vae",
+        "filename": "lumina2_vae_fp32.safetensors"
+    },
+    "vae/hunyuan_video_vae_bf16.safetensors": {
+        "url": "https://huggingface.co/calcuis/hunyuan-gguf/resolve/main/hunyuan_video_vae_bf16.safetensors",
+        "path": "path_vae",
+        "filename": "hunyuan_video_vae_bf16.safetensors"
+    },
+    "vae/wan_2.1_vae.safetensors": {
+        "url": "https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged/resolve/main/split_files/vae/wan_2.1_vae.safetensors",
+        "path": "path_vae",
+        "filename": "wan_2.1_vae.safetensors"
+    },
+    "vae/LTX-Video-VAE.safetensors": {
+        "url": "https://huggingface.co/Lightricks/LTX-Video/resolve/main/vae/diffusion_pytorch_model.safetensors",
+        "path": "path_vae",
+        "filename": "LTX-Video-VAE.safetensors"
+    },
+    "vae/pig_video_97_vae_fp32-f16.gguf": {
+        "url": "https://huggingface.co/calcuis/ltxv0.9.7-gguf/resolve/main/pig_video_97_vae_fp32-f16.gguf",
+        "path": "path_vae",
+        "filename": "pig_video_97_vae_fp32-f16.gguf"
+    }
+}

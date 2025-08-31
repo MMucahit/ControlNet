@@ -1,0 +1,5 @@
+wheel
+packaging
+pygit2
+setuptools
+torchruntime==1.21.0
