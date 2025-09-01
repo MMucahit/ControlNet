@@ -121,7 +121,7 @@ class pipeline:
 
         default_name = path_manager.get_folder_file_path(
             "checkpoints",
-            settings.default_settings.get("base_model", "sd_xl_base_1.0_0.9vae.safetensors"),
+            settings.default_settings.get("base_model", "albedobaseXL_v31Large.safetensors"),
         )
         default = shared.models.get_file("checkpoints", default_name)
 
